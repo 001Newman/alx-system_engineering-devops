@@ -1,2 +1,3 @@
-#!/bin/bash 
-ls -t | head
+#!/n/ibash
+find . -type d -not -name '.' | wc -l
+
